@@ -1,0 +1,7 @@
+{
+  "name": "clase3",
+  "short_name": "clase3",
+  "description": "Desarrollo Clase 3",
+  "start_url": "/",
+  "display": "standalone"
+}
